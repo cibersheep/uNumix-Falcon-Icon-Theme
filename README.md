@@ -1,4 +1,4 @@
-# uNumix-Falcon-Icon-Theme
+# uNumix* Falcon* Icon* Theme
 
 Icon theme for Ubuntu Phone. It requires Falcon scope (https://open.uappexplorer.com/app/falcon.bhdouglass) installable through Open Store.
 
@@ -13,21 +13,21 @@ GPLv3+
 
 ##Also includes:
 
--OSMScout icon CC3.0 by plainicon
+* OSMScout icon CC3.0 by plainicon
 
--Glasses icon CC3.0-By Bob Holzer
+* Glasses icon CC3.0* By Bob Holzer
 
--Clip icon CC3.0-By Hakan Yalcin
+* Clip icon CC3.0* By Hakan Yalcin
 
--Rocket CC-By Nina Geometrieva
+* Rocket CC* By Nina Geometrieva
 
--Pig CC-By Francesca Allegri
+* Pig CC* By Francesca Allegri
 
--Highway CC-By Jonathan Li
+* Highway CC* By Jonathan Li
 
--Books CC-By Andrew Koszkalda
+* Books CC* By Andrew Koszkalda
 
--Bulb CC-By MRFA
+* Bulb CC* By MRFA
 
--Some icons I made myself
+* Some icons I made myself
 
