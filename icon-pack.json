@@ -105,7 +105,7 @@
   "googleapps.mattirn_googleapps": "googleapps.mattirn_googleapps.svg",
   "com.ubuntu.developer.labsin.fallingblocks_fallingblocks": "com.ubuntu.developer.labsin.fallingblocks_fallingblocks.svg",
   "tvshowstime.julien1977_tvshowstime": "tvshowstime.julien1977_tvshowstime.svg",
-  "com.canonical.scopes.amazon": "com.ubuntu.developer.webapps.webapp-amazon_webapp-amazon",
+  "com.canonical.scopes.amazon": "com.ubuntu.developer.webapps.webapp-amazon_webapp-amazon.svg",
   "com.ubuntu.scopes.youtube_youtube": "youtube.waynelloyd_youtube.svg",
   "twitter.canonicalpartners_twitter": "twitter-web.mateo-salta_twitter-web.svg",
   "com.canonical.scopes.texts_texts": "com.canonical.scopes.texts_texts.svg",
@@ -150,7 +150,7 @@
   "com.canonical.scopes.hints_hints": "com.canonical.scopes.hints_hints.svg",
   "com.canonical.scopes.inrix_inrix": "com.canonical.scopes.inrix_inrix.svg",
   "unity-scope-nearby": "unity-scope-nearby.svg",
-  "com.canonical.scopes.news_unity-scopes-news": "com.canonical.scopes.news_unity-scopes-news.svg",
+  "com.canonical.scopes.news_unity-scopes-news": "com.canonical.scopes.news_unity-scope-news.svg",
   "com.canonical.scopes.events_events": "com.canonical.scopes.events_events.svg",
   "com.canonical.scopes.poi_poi": "unity-scope-nearby.svg",
   "com.canonical.scopes.songkick_songkick": "com.canonical.scopes.songkick_songkick.svg",
@@ -158,8 +158,9 @@
   "com.canonical.scopes.transport-alerts_transport-alerts": "com.canonical.scopes.transport-alerts_transport-alerts.svg",
   "com.canonical.scopes.calls_calls": "com.canonical.scopes.calls_calls.svg",
   "com.canonical.scopes.holidays_holidays": "com.canonical.scopes.holidays_holidays.svg",
-  "com.canonical.scopes.vimeo_vimeo": "com.canonical.scopes.vimeo_vimeo.svg",
+  "com.ubuntu.scopes.vimeo_vimeo": "com.ubuntu.scopes.vimeo_vimeo.svg",
   "videoaggregator": "videoaggregator.svg",
   "com.ubuntu.developer.cwayne18.xkcd_xkcd": "com.ubuntu.developer.cwayne18.xkcd_xkcd.svg",
-  "com.canonical.scopes.yelp_yelp": "com.canonical.scopes.yelp_yelp.svg"
+  "com.canonical.scopes.yelp_yelp": "com.canonical.scopes.yelp_yelp.svg",
+  "zork-1-en.cibersheep_zork-1-en": "zork-1-en.cibersheep_zork-1-en.svg"
 }
