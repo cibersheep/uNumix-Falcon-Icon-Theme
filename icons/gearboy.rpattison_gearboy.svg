@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.1" viewBox="0 0 32 32">
+ <path fill="#333" d="m0 0v32h32v-32z"/>
+ <g transform="matrix(.403 0 0 .403 2.17 -90.7)">
+  <rect style="fill:#fff" ry=".709" height="24.5" width="8.16" y="243" x="13"/>
+  <rect style="fill:#fff" ry=".898" height="8.16" width="24.5" y="251" x="4.87"/>
+  <circle style="fill:#fff" transform="rotate(-42.9)" cy="218" cx="-146" r="6.3"/>
+  <circle style="fill:#fff" cx="-129" transform="rotate(-42.9)" cy="223" r="6.3"/>
+  <rect ry="2.12" style="fill:#fff;paint-order:markers fill stroke" transform="rotate(-26.5)" height="4.23" width="12.7" y="261" x="-109"/>
+  <rect ry="2.12" style="fill:#fff;paint-order:markers fill stroke" transform="rotate(-26.4)" height="4.23" width="12.7" y="269" x="-91.8"/>
+  <rect style="opacity:.1;color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff" transform="rotate(60)" height="58.9" width="22.3" y="65.8" x="285"/>
+ </g>
+</svg>

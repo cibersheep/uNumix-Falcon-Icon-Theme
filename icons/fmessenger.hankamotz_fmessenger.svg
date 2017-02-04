@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <path d="m0 0v32h32v-32z" style="color:#000000;fill:#333"/>
+ <path d="m13.23 11.11a0.1223 0.1223 0 0 0 -0.08981 0.04204l-8.19 9.459a0.1223 0.1223 0 0 0 0.1548 0.1834l8.031-4.855 5.131 4.92a0.1223 0.1223 0 0 0 0.1739 -0.0019l8.595-8.784a0.1223 0.1223 0 0 0 -0.1433 -0.1949l-8.488 4.244-5.087-4.976a0.1223 0.1223 0 0 0 -0.0879 -0.03631z" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;text-transform:none;fill:#fff"/>
+</svg>

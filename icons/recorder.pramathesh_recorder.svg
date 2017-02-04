@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <path style="fill:#333" d="m0 0v32h32v-32z"/>
+ <path class="st0" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff" d="m21.14 11.89c-2.262 0-4.112 1.85-4.112 4.112 0 0.7401 0.2056 1.46 0.5551 2.056h-3.166c0.3495-0.5962 0.5551-1.316 0.5551-2.056 0-2.262-1.85-4.112-4.112-4.112s-4.112 1.85-4.112 4.112 1.85 4.112 4.112 4.112h10.28c2.262 0 4.112-1.85 4.112-4.112s-1.85-4.112-4.112-4.112zm-10.28 6.168c-1.131 0-2.056-0.9252-2.056-2.056s0.9252-2.056 2.056-2.056 2.056 0.9252 2.056 2.056-0.9252 2.056-2.056 2.056zm10.28 0c-1.131 0-2.056-0.9252-2.056-2.056s0.9252-2.056 2.056-2.056 2.056 0.9252 2.056 2.056-0.9252 2.056-2.056 2.056z"/>
+</svg>

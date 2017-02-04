@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <path style="color:#000000;fill:#333" d="m0 0v32h32v-32z"/>
+ <rect style="fill:#fff" ry=".7" height="18" width="1" y="7" x="8.5"/>
+ <rect style="fill:#fff" ry=".7" height="18" width="3" y="7" x="4.5"/>
+ <rect style="fill:#fff" ry=".7" height="18" width="1" y="7" x="10.5"/>
+ <rect style="fill:#fff" ry=".7" height="18" width=".5" y="7" x="12.5"/>
+ <rect style="fill:#fff" ry=".7" height="18" width=".5" y="7" x="13.5"/>
+ <rect style="fill:#fff" ry=".7" height="18" width=".5" y="7" x="15"/>
+ <rect style="fill:#fff" ry=".7" height="18" width=".5" y="7" x="17"/>
+ <rect style="fill:#fff" ry=".7" height="18" width=".5" y="7" x="19"/>
+ <rect style="fill:#fff" ry=".7" height="18" width=".5" y="7" x="21"/>
+ <rect style="fill:#fff" ry=".7" height="18" width=".5" y="7" x="22"/>
+ <rect style="fill:#fff" ry=".7" height="18" width="3" y="7" x="25"/>
+</svg>
