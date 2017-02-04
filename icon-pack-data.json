@@ -1,9 +1,9 @@
 { 
   "author": "Joan Cibersheep",
   "maintainer": "Joan Cibersheep",
-  "title": "Flatwoken Touch",
+  "title": "uNumix",
   "icons": "icons",
-  "description": "Based on Fkatwoken Icon Pack created by Alessandro Roncone",
+  "description": "Based on Numix Project",
   "preview": "preview.jpg",
   "icon": "icons/icon-pack.svg"
 }

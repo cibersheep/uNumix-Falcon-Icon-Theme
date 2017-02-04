@@ -6,14 +6,14 @@ import Qt.labs.folderlistmodel 2.1
 MainView {
     id: root
     objectName: 'mainView'
-    applicationName: 'icon-pack-flatwoken-touch.cibersheep'
+    applicationName: 'icon-pack-unumix.cibersheep'
     automaticOrientation: true
 
     width: units.gu(45)
     height: units.gu(75)
 
     Page {
-        title: i18n.tr('Flatwoken Touch Icon Pack')
+        title: i18n.tr('uNumix Icon Pack')
         anchors.fill: parent
 
         FolderListModel {

@@ -1,15 +1,15 @@
 {
-    "name": "icon-pack-flatwoken-touch.cibersheep",
-    "description": "Flatwoken Touch icon pack app for Falcon",
+    "name": "icon-pack-unumix.cibersheep",
+    "description": "uNumix icon pack app for Falcon",
     "architecture": "all",
-    "title": "Icon Pack Flatwoken Touch",
+    "title": "Icon Pack uNumix",
     "hooks": {
         "app": {
             "apparmor": "app.apparmor",
             "desktop":  "app.desktop"
         }
     },
-    "version": "0.8.4",
+    "version": "0.4.4",
     "maintainer": "Joan CiberSheep <cibersheep@gmail.com>",
     "framework" : "ubuntu-sdk-15.04.6"
 }

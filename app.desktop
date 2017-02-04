@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Flatwoken Touch Icon Pack
+Name=uNumix Icon Pack
 Exec=qmlscene qml/Main.qml
 Icon=icons/icon-pack.svg
 Terminal=false
